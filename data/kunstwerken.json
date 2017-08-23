@@ -1,0 +1,116 @@
+{
+    "kunstwerken":
+    [
+        {
+            "titel": "That Was Then This Is Now",
+            "id": 10,
+            "datering": "2014",
+            "uitvoerder": "Ed Ruscha",
+            "land": "Verenigde Staten",
+            "categorieen": ["writing"],
+            "materiaal": "Lithograph",
+            "afmetingen": "90.2 x 116.8",
+            "beschrijving": "<p> Ed Ruscha is known for appropriating ambiguous phrases from road signs, overheard conversations, or movies and setting the text against incongruously romantic backgrounds such as sunsets or starry skies. The text in this work is characteristic of Ruscha’s tongue-in-cheek machismo. </p> <p> On its own, the familiar phrase approaches cliche but when placed on top of a dramatic cloudy sky the viewer must make new associations for the phrase, one that resolves the words with its background.</p>",
+            "afbeelding": "larger.jpg"
+        },{
+            "titel": "Kusama with Pumpkin",
+            "id": 9,
+            "datering": "2010",
+            "uitvoerder": "Yayoi Kusama",
+            "land": "Signapore",
+            "categorieen": ["abstract"],
+            "materiaal": "Digital C print",
+            "afmetingen": "100 x 191",
+            "beschrijving": "<p> Yayoi Kusama’s monumental Pumpkin is on view on the Hirshhorn Plaza now, and it will remain there through the course of the exhibition. For Kusama, pumpkins represent a source of radiant energy. They are one of the artist’s most beloved motifs. Both endearing and grotesque, the giant gourds have been a source of inspiration for the artist since her childhood, when she was surrounded by her family’s seed nursery in prewar Japan. She has written, “Pumpkins bring about poetic peace in my mind. </p>",
+            "afbeelding": "larger2.jpg"
+        },{
+            "titel": "Sandcastle # 01",
+            "id": 8,
+            "datering": "2014",
+            "uitvoerder": "Vik Muniz",
+            "land": "Brazilie",
+            "categorieen": ["buildings"],
+            "materiaal": "Digital C print",
+            "afmetingen": "180 x 237.5",
+            "beschrijving": "<p> Artist Vik Muniz (previously here, here, and here) is known for his gigantic composite installations and sculptures created from thousands of individual objects. In this new collaboration with artist and MIT researcher Marcelo Coelho, Muniz takes the opposite approach and explores the microscopic with a new series of sandcastles etched onto individual grains of sand.</p>",
+            "afbeelding": "larger3.jpg"
+        },{
+            "titel": "Ella",
+            "id": 7,
+            "datering": "2007",
+            "uitvoerder": "Gerhard Richter",
+            "land": "Duitsland",
+            "categorieen": ["portret"],
+            "materiaal": "Oil on Canvas",
+            "afmetingen": "40 x 31",
+            "beschrijving": "<p>Gerhard Richter, ' the grandaddy of contemporary painting', is being celebrated at the National Portrait Gallery in the first major exhibition of his portrait paintings. His painted figures, derived from photographs, subtly skew the photorealist tradition. Thirty-five key works go on show from 26 February, including a portrait of Richter's daughter Ella, which is to be exhibited for the first time </p>",
+            "afbeelding": "larger4.jpg"
+        },{
+            "titel": "Tan Tan Bo - In Communication",
+            "id": 6,
+            "datering": "2014",
+            "uitvoerder": "Takashi Murakami",
+            "land": "Japan",
+            "categorieen": ["abstract"],
+            "materiaal": "Acrylic on canvas",
+            "afmetingen": "360 × 360",
+            "beschrijving": "<p>One of the most acclaimed artists to emerge from postwar Asia, Takashi Murakami—“the Warhol of Japan”—is known for his contemporary Pop synthesis of fine art and popular culture, particularly his use of a boldly graphic and colorful anime and manga cartoon style. Murakami became famous in the 1990s for his “Superflat” theory and for organizing the paradigmatic exhibition of that title, which linked the origins of contemporary Japanese visual culture to historical Japanese art. His output includes paintings, sculptures, drawings, animations, and collaborations with brands such as Louis Vuitton. </p>",
+            "afbeelding": "larger5.jpg"
+        },{
+            "titel": "Kate (purple)",
+            "id": 5,
+            "datering": "2005",
+            "uitvoerder": "Banksy",
+            "land": "United Kingdom",
+            "categorieen": ["portret"],
+            "materiaal": "Screenprint",
+            "afmetingen": "68 × 68",
+            "beschrijving": "<p> Whether plastering cities with his trademark parachuting rat, painting imagined openings in the West Bank barrier in Israel, or stenciling “We’re bored of fish” above a penguins’ zoo enclosure, Banksy creates street art with an irreverent wit and an international reputation that precedes his anonymous identity. “TV has made going to the theatre seem pointless, photography has pretty much killed painting,” he says, “but graffiti has remained gloriously unspoilt by progress.” Banksy has gained his notoriety through a range of urban interventions, from modifying street signs and printing his own currency to illegally hanging his own works in institutions such as the Louvre and the Museum of Modern Art.</p>",
+            "afbeelding": "larger6.jpg"
+        },{
+            "titel": "The Cure",
+            "id": 4,
+            "datering": "2014",
+            "uitvoerder": "Damien Hirst",
+            "land": "United Kingdom",
+            "categorieen": ["abstract"],
+            "materiaal": "Silkscreen on Somerset Tub Sized",
+            "afmetingen": "72 × 51",
+            "beschrijving": "<p>Predominantly based upon the minimalist aesthetic of the medicinal pill, the works on display act as a continuation of Hirst’s life-long investigation into our almost-spiritual relationship with the rigors of science and the pharmaceutical industry. </p>",
+            "afbeelding": "larger7.jpg"
+        },{
+            "titel": "Reproduction drawing IV",
+            "id": 3,
+            "datering": "2010",
+            "uitvoerder": " Jenny Saville",
+            "land": "United Kingdom",
+            "categorieen": ["people"],
+            "materiaal": "Pencil on paper",
+            "afmetingen": "226.9 × 176.8",
+            "beschrijving": "<p> Jenny Saville paints female nudes in extreme states of grotesque exaggeration—deformed, obese, brutalized, or mutilated—working against the male-dominated history of idealized portraits of women. I want to be a painter of modern life, and modern bodies, she says. The morbidity of Saville’s human subjects, often bleeding or violently gripping their own flesh, bears a stark resemblance to her portraits of butchered animals, both grotesque and objectified. </p>",
+            "afbeelding": "larger8.jpg"
+        },{
+            "titel": "Ocean II",
+            "id": 2,
+            "datering": "2010",
+            "uitvoerder": "Andreas Gursky",
+            "land": "Duitsland",
+            "categorieen": ["nature"],
+            "materiaal": "Chromogenic Print",
+            "afmetingen": "346.7 × 248.9",
+            "beschrijving": "<p> In his resplendent large-scale photographs, Andreas Gursky captures the modern world, and its landscapes, people, architecture, and industries, in seductive detail. Shot from an elevated perspective and produced on an epic scale, Gursky’s images show the individual or granular—supermarket products, soccer players, windows on a building, or islands in the sea—subsumed by the masses or the environment. Drawing influence from his schooling under Bernd and Hilla Becher, Gursky rigorously composes his expansive views to envelop viewers with dizzying scale, detail, and color—effects he often heightens through digital manipulation. </p>",
+            "afbeelding": "larger9.jpg"
+        },{
+            "titel": "Pyongyang I",
+            "id": 1,
+            "datering": "2007",
+            "uitvoerder": "Andreas Gursky",
+            "land": "Duitsland",
+            "categorieen": ["pictures"],
+            "materiaal": "c-print",
+            "afmetingen": "93 x 142",
+            "beschrijving": "<p>In the end I decided to digitalize the pictures and leave out elements that bothered me, he said of his Rhine photographs (1999), one of which set the record in late 2011 for the highest price ever paid for a photograph at auction. Gursky bears a close comparison to other members of the Dusseldorf School, particularly Thomas Struth, Axel Hütte, and Candida Höfer.</p>",
+            "afbeelding": "larger10.jpg"
+        }
+    ]
+}

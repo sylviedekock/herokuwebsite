@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Museum of modern art</title>
+		<link rel="stylesheet" type="text/css" href="/css/reset.css">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css">
+		<link href="https://fonts.googleapis.com/css?family=Lora|Oswald" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Oswald:200" rel="stylesheet">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body>
+
+		<h1><a href="/">Museum of modern art</a></h1>
+
+		<header>
+
+				<div class="button-group">
+					<button data-label="categorieen">Categorieën <span>+</span></button>
+					<button data-label="kunstenaars">Artist <span>+</span></button>
+				</div>
+
+				<div class="filter categorieen">
+					<% for (var i = 0; i < categorieen.length; i++) { %>
+						<a href="/categorieen/<%- categorieen[i] %>"><%- categorieen[i] %></a>
+					<% } %>
+				</div>
+
+				<div class="filter kunstenaars">
+					<% for (var i = 0; i < kunstenaars.length; i++) { %>
+						<a href="/kunstenaars/<%- kunstenaars[i] %>"><%- kunstenaars[i] %></a>
+					<% } %>
+				</div>
+
+		</header>
